@@ -3,7 +3,7 @@
 - 👩‍💻 desenhista e futura programadora
 </br>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎  ‎ aprendendo ↓
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP9ObKv6LEFUdqow_aWivUIjA8w1BoF6Jkxw&usqp=CAU" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP9ObKv6LEFUdqow_aWivUIjA8w1BoF6Jkxw&usqp=CAU" alt="Java Script">
 
 
 
