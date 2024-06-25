@@ -2,7 +2,7 @@
 - 🤓 any pronouns
 - 👩‍💻 desenhista e futura programadora
 </br>
-‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎  ‎ <h1>aprendendo↓</h1>
+‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎  ‎ <h3>aprendendo↓</h3>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP9ObKv6LEFUdqow_aWivUIjA8w1BoF6Jkxw&usqp=CAU" alt="Java Script">
 
 
