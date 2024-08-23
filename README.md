@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @artissanvic
-- 🤓 any pronouns
 - 👩‍💻 desenhista e futura programadora
 </br>
 <h3>‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎aprendendo↓</h3>
