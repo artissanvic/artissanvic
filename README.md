@@ -5,7 +5,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Artissanvic/Artissanvic/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
